@@ -1,5 +1,4 @@
 # ADA-Satisfacao-de-Clientes-ML
-[in progress]
 
 Neste projeto vamos analisar dados de uma pesquisa com passageiros de companhias aéreas dos Estados Unidos e criar modelos que prevejam a satisfação deles.
 
